@@ -7,7 +7,7 @@ int main()
     int count[9]={ 0 };
     int max=0,min=0;
     int i;
-    cout<<"Enter n numbers (between 1 and 9,enter 0 to stop:" << endl;
+    cout<<"Enter n numbers (between 1 and 9,enter 0 to stop):" << endl;
     while(true){
        cin>>n;
        if(n==0)
